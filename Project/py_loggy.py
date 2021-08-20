@@ -35,7 +35,7 @@ t = ""
 pics_names = []
 #
 # yourGmail = "sravyablog2001@gmail.com"
-# yourGmailPass = "kvsrasru20012007"
+# yourGmailPass = "password"
 # sendto = "sravyablog2001@gmail.com"
 interval = 60
 file_path = "C:\\Users\\kvsra\\PycharmProjects\\keylogger\\Project"  # Enter the file path you want your files to be saved to
